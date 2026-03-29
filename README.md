@@ -132,5 +132,5 @@ For file uploads in production, replace `@tus/file-store` with S3-compatible sto
 | `npm run db:push` | Push schema to DB |
 | `npm run db:seed` | Seed database |
 | `npm run lint` | Run ESLint |
-# 2025-p4a-minicms-urbanekdavid
-# 2025-p4a-minicms-urbanekdavid
+
+### 2025-p4a-minicms-urbanekdavid
